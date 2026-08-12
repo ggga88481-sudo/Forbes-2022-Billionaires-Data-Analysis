@@ -34,3 +34,6 @@ The project focuses on exploring, cleaning, analyzing, and visualizing data abou
 This project helped me strengthen my practical understanding of Python and Data Analysis and apply the concepts I learned to a real-world dataset.
 
 It is an important step in my learning journey toward Data Science and Artificial Intelligence.
+## 🎥 Project Demo
+
+[Watch the Project Demo](https://lnkd.in/p/eRZD2JkG)
